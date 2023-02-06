@@ -1,0 +1,1124 @@
+
+
+.main{
+   height: 110vmin;
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+
+   cursor: pointer;
+
+   /* border: 2px solid red; */
+  
+
+}
+
+
+
+.firstDiv{
+   height: 10vmin;
+   width: 50%;
+   display: flex;
+   align-items: flex-end;
+   font-size: 2.2vmin;
+   padding-bottom: 7px;
+   /* border: 2px solid red; */
+
+}
+
+
+.secondDiv{
+   height: 50vmin;
+   width: 50%;
+ 
+   border-radius: 8px;
+}
+
+
+
+.threedDiv{
+      height: 10vmin;
+      width: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.75vmin;
+    
+      /* border: 2px solid red; */
+
+}
+
+
+
+
+.fourDiv {
+   height:15vmin;
+   width: 50%;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   font-size: 1.8vmin;
+   color: blue;
+   /* border: 2px solid red; */
+
+
+}
+
+.fourDivItem1{
+   height: 4.5vmin;
+   padding: 14px;
+   width: 47%;
+   background-color: transparent;
+   border: 2px solid blue;
+   border-radius: 7px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+font-size: 1.65vmin;
+
+}
+
+
+.fourDivItem2 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 47%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.65vmin;
+}
+
+
+.fourDivItem3 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 47%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.65vmin;
+}
+
+.fourDivItem4 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 47%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.65vmin;
+}
+
+.fourDivItem1 span {
+   width: 87%;
+   height: 4vmin;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   /* border: 2px solid red; */
+}
+
+.fourDivItem2 span {
+   width: 87%;
+   height: 4vmin;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   /* border: 2px solid red; */
+}
+
+.fourDivItem3 span {
+   width: 87%;
+   height: 4vmin;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   /* border: 2px solid red; */
+}
+
+.fourDivItem4 span {
+   width: 87%;
+   height: 4vmin;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   /* border: 2px solid red; */
+}
+
+
+ .fourDivItem1:hover{
+      transition: 600ms;
+      transform: scale(.98);
+      background-color: blue;
+      border: none;
+      color: white;
+}
+
+
+ .fourDivItem2:hover {
+    transition: 600ms;
+    transform: scale(.98);
+    background-color: blue;
+    border: none;
+    color: white;
+ }
+
+  .fourDivItem3:hover {
+     transition: 600ms;
+     transform: scale(.98);
+     background-color: blue;
+     border: none;
+     color: white;
+  }
+
+ .fourDivItem4:hover {
+    transition: 600ms;
+    transform: scale(.98);
+    background-color: blue;
+    border: none;
+    color: white;
+ }
+
+
+
+
+.fiveDiv{
+   height: 10vmin;
+   width: 50%;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   font-size: 1.6vmin;
+   /* border: 2px solid red; */
+
+}
+
+.fiveDiv button{
+   height: 4.5vmin;
+   padding: 6px;
+   width: 15vmin;
+   background-color: blue;
+   border: none;
+   color: white;
+  
+   font-size: 1.5vmin;
+   cursor: pointer;
+
+   border-radius: 7px;
+}
+
+.fiveDiv button:hover{
+   transition: 600ms;
+   transform: scale(.97);
+   background-color: transparent;
+   border: 2px solid blue;
+   color: blue;
+}
+
+
+@media screen and (max-width: 992px) {
+
+   .firstDiv {
+         height: 10vmin;
+         width: 55%;
+         display: flex;
+         align-items: flex-end;
+         font-size: 2.2vmin;
+         padding-bottom: 7px;
+         /* border: 2px solid red; */
+   
+      }
+   
+   
+      .secondDiv {
+         height: 50vmin;
+         width: 55%;
+   
+         border-radius: 8px;
+      }
+   
+   
+   
+      .threedDiv {
+         height: 10vmin;
+         width: 55%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         font-size: 1.75vmin;
+   
+         /* border: 2px solid red; */
+   
+      }
+
+            .fourDiv {
+               height: 15vmin;
+               width: 55%;
+               display: flex;
+               justify-content: space-between;
+               flex-wrap: wrap;
+               font-size: 1.8vmin;
+               color: blue;
+               /* border: 2px solid red; */
+      
+      
+            }
+
+
+
+            .fiveDiv {
+               height: 10vmin;
+               width: 55%;
+               display: flex;
+               justify-content: space-between;
+               align-items: flex-start;
+               font-size: 1.6vmin;
+               /* border: 2px solid red; */
+      
+            }
+   
+   
+   
+   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+
+   .main {
+         height: 125vmin;
+         width: 100%;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+   
+         cursor: pointer;
+   
+   
+      }
+   
+   
+   
+      .firstDiv {
+         height: 10vmin;
+         width: 55%;
+         display: flex;
+         align-items: flex-end;
+         font-size: 2.2vmin;
+         padding-bottom: 7px;
+         /* border: 2px solid red; */
+   
+      }
+   
+   
+      .secondDiv {
+         height: 50vmin;
+         width: 55%;
+   
+         border-radius: 8px;
+      }
+   
+   
+   
+      .threedDiv {
+         height: 10vmin;
+         width: 60%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         font-size: 1.8vmin;
+   
+         /* border: 2px solid red; */
+   
+      }
+   
+   
+   
+   
+      .fourDiv {
+         height: 24vmin;
+         width: 55%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         flex-wrap: wrap;
+         font-size: 1.9vmin;
+         color: blue;
+         /* border: 2px solid red; */
+   
+   
+      }
+   
+      .fourDivItem1 {
+         height: 4.5vmin;
+         padding: 14px;
+         width: 100%;
+         background-color: transparent;
+         border: 2px solid blue;
+         border-radius: 7px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         font-size: 1.75vmin;
+   
+      }
+   
+   
+      .fourDivItem2 {
+         height: 4.5vmin;
+         padding: 14px;
+         width: 100%;
+         background-color: transparent;
+         border: 2px solid blue;
+         border-radius: 7px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         font-size: 1.75vmin;
+      }
+   
+   
+      .fourDivItem3 {
+         height: 4.5vmin;
+         padding: 14px;
+         width: 100%;
+         background-color: transparent;
+         border: 2px solid blue;
+         border-radius: 7px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         font-size: 1.75vmin;
+      }
+   
+      .fourDivItem4 {
+         height: 4.5vmin;
+         padding: 14px;
+         width: 100%;
+         background-color: transparent;
+         border: 2px solid blue;
+         border-radius: 7px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         font-size: 1.75vmin;
+      }
+   
+      .fourDivItem1 span {
+         width: 87%;
+         height: 4vmin;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+   
+         /* border: 2px solid red; */
+      }
+   
+      .fourDivItem2 span {
+         width: 87%;
+         height: 4vmin;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+   
+         /* border: 2px solid red; */
+      }
+   
+      .fourDivItem3 span {
+         width: 87%;
+         height: 4vmin;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+   
+         /* border: 2px solid red; */
+      }
+   
+      .fourDivItem4 span {
+         width: 87%;
+         height: 4vmin;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+   
+         /* border: 2px solid red; */
+      }
+   
+   
+   
+   
+      .fiveDiv {
+         height: 10vmin;
+         width: 55%;
+         display: flex;
+         justify-content: space-between;
+         align-items: flex-start;
+         font-size: 1.6vmin;
+         /* border: 2px solid red; */
+   
+      }
+   
+      .fiveDiv button {
+         height: 4.5vmin;
+         padding: 6px;
+         width: 15vmin;
+         background-color: blue;
+         border: none;
+         color: white;
+   
+         font-size: 1.7vmin;
+         cursor: pointer;
+   
+         border-radius: 7px;
+      }
+   
+     
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+
+   .main {
+      height: 140vmin;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      cursor: pointer;
+
+
+   }
+
+
+
+   .firstDiv {
+      height: 10vmin;
+      width: 60%;
+      display: flex;
+      align-items: flex-end;
+      font-size: 2.6vmin;
+      padding-bottom: 7px;
+      /* border: 2px solid red; */
+
+   }
+
+
+   .secondDiv {
+      height: 50vmin;
+      width: 60%;
+
+      border-radius: 8px;
+   }
+
+
+
+   .threedDiv {
+      height: 10vmin;
+      width: 60%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.35vmin;
+
+      /* border: 2px solid red; */
+
+   }
+
+
+
+
+   .fourDiv {
+      height: 30vmin;
+      width: 60%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      font-size: 2.1vmin;
+      color: blue;
+      /* border: 2px solid red; */
+
+
+   }
+
+   .fourDivItem1 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.1vmin;
+
+   }
+
+
+   .fourDivItem2 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.1vmin;
+   }
+
+
+   .fourDivItem3 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.1vmin;
+   }
+
+   .fourDivItem4 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.1vmin;
+   }
+
+   .fourDivItem1 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem2 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem3 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem4 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+
+
+
+   .fiveDiv {
+      height: 10vmin;
+      width: 60%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 2.2vmin;
+      /* border: 2px solid red; */
+
+   }
+
+   .fiveDiv button {
+      height: 5.5vmin;
+      padding: 6px;
+      width: 15vmin;
+      background-color: blue;
+      border: none;
+      color: white;
+
+      font-size: 1.9vmin;
+      cursor: pointer;
+
+      border-radius: 7px;
+   }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px) {
+
+   .main {
+      height: 150vmin;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      cursor: pointer;
+
+
+   }
+
+
+
+   .firstDiv {
+      height: 10vmin;
+      width: 70%;
+      display: flex;
+      align-items: flex-end;
+      font-size: 2.8vmin;
+      padding-bottom: 7px;
+      /* border: 2px solid red; */
+
+   }
+
+
+   .secondDiv {
+      height: 50vmin;
+      width: 70%;
+
+      border-radius: 8px;
+   }
+
+
+
+   .threedDiv {
+      height: 10vmin;
+      width: 70%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.6vmin;
+
+      /* border: 2px solid red; */
+
+   }
+
+
+
+
+   .fourDiv {
+      height: 30vmin;
+      width: 70%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      font-size: 2.5vmin;
+      color: blue;
+      /* border: 2px solid red; */
+
+
+   }
+
+   .fourDivItem1 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.4vmin;
+
+   }
+
+
+   .fourDivItem2 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.4vmin;
+   }
+
+
+   .fourDivItem3 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.4vmin;
+   }
+
+   .fourDivItem4 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.4vmin;
+   }
+
+   .fourDivItem1 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem2 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem3 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem4 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+
+
+
+   .fiveDiv {
+      height: 10vmin;
+      width:70%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 2.4vmin;
+      /* border: 2px solid red; */
+
+   }
+
+   .fiveDiv button {
+      height: 6vmin;
+      padding: 6px;
+      width: 18vmin;
+      background-color: blue;
+      border: none;
+      color: white;
+
+      font-size:2.1vmin;
+      cursor: pointer;
+
+      border-radius: 7px;
+   }
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 450px) {
+
+   .main {
+      height: 160vmin;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      cursor: pointer;
+
+
+   }
+
+
+
+   .firstDiv {
+      height: 10vmin;
+      width: 75%;
+      display: flex;
+      align-items: flex-end;
+      font-size: 3.1vmin;
+      padding-bottom: 7px;
+      /* border: 2px solid red; */
+
+   }
+
+
+   .secondDiv {
+      height: 50vmin;
+      width: 75%;
+
+      border-radius: 8px;
+   }
+
+
+
+   .threedDiv {
+      height: 10vmin;
+      width: 75%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.8vmin;
+
+      /* border: 2px solid red; */
+
+   }
+
+
+
+
+   .fourDiv {
+      height: 40vmin;
+      width: 75%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      font-size: 2.75vmin;
+      color: blue;
+      /* border: 2px solid red; */
+
+
+   }
+
+   .fourDivItem1 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.8vmin;
+
+   }
+
+
+   .fourDivItem2 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.8vmin;
+   }
+
+
+   .fourDivItem3 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.8vmin;
+   }
+
+   .fourDivItem4 {
+      height: 4.5vmin;
+      padding: 14px;
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid blue;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+   font-size: 2.8vmin;
+
+   }
+
+   .fourDivItem1 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem2 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem3 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+   .fourDivItem4 span {
+      width: 87%;
+      height: 4vmin;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* border: 2px solid red; */
+   }
+
+
+
+
+   .fiveDiv {
+      height: 10vmin;
+      width: 75%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 2.85vmin;
+      /* border: 2px solid red; */
+
+   }
+
+   .fiveDiv button {
+      height: 6.8vmin;
+      padding: 6px;
+      width: 22vmin;
+      background-color: blue;
+      border: none;
+      color: white;
+
+      font-size: 2.75vmin;
+      cursor: pointer;
+
+      border-radius: 7px;
+   }
+
+
+
+
+}
