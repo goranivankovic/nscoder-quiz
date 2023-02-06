@@ -392,9 +392,12 @@ function Questions() {
                  </div>
 
                 <div className={qustionStyles.fiveDiv}>
-                 <button disabled={btnBool} onClick={incrementNum}>Next</button>    {btnBool ?   <div>Wining Procentage : {procentage}%</div> :""}
+                 <button disabled={btnBool} onClick={incrementNum}>Next</button>    {btnBool ?   <div>Winning Percentage : {procentage}%</div> :""}
 
                 </div>
+
+
+                <div className={qustionStyles.empdtyDiv}></div>
  
 
         

@@ -232,6 +232,13 @@ font-size: 1.65vmin;
 }
 
 
+.empdtyDiv{
+   height: 10vmin;
+   width: 100%;
+}
+
+
+
 @media screen and (max-width: 992px) {
 
    .firstDiv {
