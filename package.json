@@ -1,5 +1,6 @@
 {
   "name": "quiz-game",
+  "homepage": "https://goranivankovic.github.io/nscoder-quiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
