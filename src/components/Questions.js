@@ -354,7 +354,7 @@ function Questions() {
   return (
     <div className={qustionStyles.main}>
 
-
+                <div className={qustionStyles.empdtyDiv}></div>
 
 
              <div className={qustionStyles.firstDiv}> Quiz Game</div>

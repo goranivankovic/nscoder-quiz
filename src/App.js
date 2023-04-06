@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import Questions from './components/Questions';
+import QuestTest from './components/QuestTest';
 
 
 function App() {
   return (
     <div className="App">
 
-      <Questions />
+      <QuestTest />
  
     
    
