@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nscoder-quiz/static/css/main.8c4d6f0a.chunk.css",
-    "main.js": "/nscoder-quiz/static/js/main.d91ffae4.chunk.js",
-    "main.js.map": "/nscoder-quiz/static/js/main.d91ffae4.chunk.js.map",
+    "main.css": "/nscoder-quiz/static/css/main.b03d029e.chunk.css",
+    "main.js": "/nscoder-quiz/static/js/main.863be0e5.chunk.js",
+    "main.js.map": "/nscoder-quiz/static/js/main.863be0e5.chunk.js.map",
     "runtime-main.js": "/nscoder-quiz/static/js/runtime-main.d2f0dacf.js",
     "runtime-main.js.map": "/nscoder-quiz/static/js/runtime-main.d2f0dacf.js.map",
-    "static/js/2.4fc8ff41.chunk.js": "/nscoder-quiz/static/js/2.4fc8ff41.chunk.js",
-    "static/js/2.4fc8ff41.chunk.js.map": "/nscoder-quiz/static/js/2.4fc8ff41.chunk.js.map",
+    "static/js/2.261f376c.chunk.js": "/nscoder-quiz/static/js/2.261f376c.chunk.js",
+    "static/js/2.261f376c.chunk.js.map": "/nscoder-quiz/static/js/2.261f376c.chunk.js.map",
     "index.html": "/nscoder-quiz/index.html",
-    "static/css/main.8c4d6f0a.chunk.css.map": "/nscoder-quiz/static/css/main.8c4d6f0a.chunk.css.map",
-    "static/js/2.4fc8ff41.chunk.js.LICENSE.txt": "/nscoder-quiz/static/js/2.4fc8ff41.chunk.js.LICENSE.txt",
+    "static/css/main.b03d029e.chunk.css.map": "/nscoder-quiz/static/css/main.b03d029e.chunk.css.map",
+    "static/js/2.261f376c.chunk.js.LICENSE.txt": "/nscoder-quiz/static/js/2.261f376c.chunk.js.LICENSE.txt",
     "static/media/lightB.16e5cacc.jpeg": "/nscoder-quiz/static/media/lightB.16e5cacc.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d2f0dacf.js",
-    "static/js/2.4fc8ff41.chunk.js",
-    "static/css/main.8c4d6f0a.chunk.css",
-    "static/js/main.d91ffae4.chunk.js"
+    "static/js/2.261f376c.chunk.js",
+    "static/css/main.b03d029e.chunk.css",
+    "static/js/main.863be0e5.chunk.js"
   ]
 }
